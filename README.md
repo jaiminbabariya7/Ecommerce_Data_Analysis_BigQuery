@@ -1,8 +1,7 @@
 ---
-title: "E-commerce Data Analysis Project using BigQuery"
-author: "Jaimin Babariya"
-date: "`r format(Sys.Date(), '%B %d, %Y')`"
-output: github_document
+Title: "E-commerce Data Analysis Project using BigQuery"
+Author: "Jaimin Babariya"
+Date: "Tue 2 Jul 2024"
 ---
 
 # E-commerce Data Analysis Project
